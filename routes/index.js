@@ -1,7 +1,6 @@
 const routes = require('express').Router();
+const name = require('../controllers/index')
 
-routes.get('/', (req, res) =>{
-    res.send('Mariana Rodriuez Fuentes Rivera De Thomas');
-});
+routes.get('/', name.displayName);
 
 module.exports = routes;
