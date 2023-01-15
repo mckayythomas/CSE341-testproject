@@ -1,0 +1,26 @@
+{
+    "contact1": {
+      "firstName": "Mariana",
+      "lastName": "Thomas",
+      "email": "marianarfr234@gmail.com",
+      "phone": "964345874",
+      "favoriteColor": "Pink",
+      "birthday": "23/09/1996"
+    },
+    "contact2": {
+      "firstName": "Paulo",
+      "lastName": "Olechea",
+      "email": "paulooch12@gmail.com",
+      "phone": "964322134",
+      "favoriteColor": "Orange",
+      "birthday": "14/03/1997"
+    },
+    "contact3": {
+      "firstName": "Greg",
+      "lastName": "Shell",
+      "email": "guchi4real@gmail.com",
+      "phone": "893236432",
+      "favoriteColor": "Flamin Red",
+      "birthday": "21/07/1975"
+    }
+  }

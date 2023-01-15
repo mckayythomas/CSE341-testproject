@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/mckayythomas/CSE341-testproject#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "body-parser": "^1.18.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.3",
+    "mongodb": "^4.13.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
